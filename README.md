@@ -1,3 +1,16 @@
+<h1 align="center" style="border-bottom: none">
+    <b>
+        <a href="https://gpt3-radser2001.netlify.app/">⭐️ GPT-3 Landing Page ⭐️</a><br>
+    </b>
+
+</h1>
+
+<p align="center"> <b>A Landing Page created using React.js <br> </b> <p>
+  
+  <a href="https://gpt3-radser2001.netlify.app/"  align="center"> Live Site  </a>
+
+![image](image.png)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
