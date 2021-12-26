@@ -1,6 +1,6 @@
 <h1 align="center" style="border-bottom: none">
     <b>
-        <a href="https://gpt3-radser2001.netlify.app/">⭐️ GPT-3 Landing Page ⭐️</a><br>
+        ⭐️ GPT-3 Landing Page ⭐️<br>
     </b>
 
 </h1>
